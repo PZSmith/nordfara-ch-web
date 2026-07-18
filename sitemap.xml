@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nordfara.ch/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://nordfara.ch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nordfara.com/"/>
+  </url>
+  <url>
+    <loc>https://nordfara.ch/e-1-e-2-visum</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://nordfara.ch/e-1-e-2-visum"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/e-1-e-2-visa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nordfara.com/e-1-e-2-visa"/>
+  </url>
+  <url>
+    <loc>https://nordfara.ch/l-1-visum</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de-ch" href="https://nordfara.ch/l-1-visum"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/l-1-visa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nordfara.com/l-1-visa"/>
+  </url>
+</urlset>
